@@ -1,0 +1,15 @@
+Respuestas recibidas: N = 38 segun el Anexo - Caso simulado de respaldo.
+Fuente: Distribuidora Andina del Sur S.A.C., caso academico simulado.
+
+No se conto con la base CSV individual de respuestas. El perfil cultural se consigna a partir de la tabla agregada incluida en el anexo del caso.
+
+Perfil cultural agregado:
+Tipo         Hoy   Deseado   Brecha
+Jerarquia    42      30       -12
+Clan         26      24        -2
+Mercado      20      20         0
+Adhocracia   12      26       +14
+
+Cultura dominante actual: Jerarquia (42 puntos).
+Cultura deseada con mayor incremento: Adhocracia (+14 puntos).
+Dimension critica para el PETI: necesidad de mayor innovacion, flexibilidad y capacidad de cambio.
